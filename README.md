@@ -1,51 +1,59 @@
-# Awesome MongoDB <img src="logo.png" width="2%">
+<p align="center"><img src="logo.png" height="300" alt="MongoDB Logo"/></p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build status](https://img.shields.io/travis/ramnes/awesome-mongodb.svg)](https://travis-ci.org/ramnes/awesome-mongodb)
+# Awesome MongoDB CN
 
-> MongoDB 资源、库、工具、应用程序精选列表中文版
+<p align="center">:leaves: MongoDB 资源、库、工具、应用程序精选列表中文版</p>
 
-本项目 fork 至 [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)，欢迎通过[CONTRIBUTING](./.github/CONTRIBUTING.md)，改善这个列表！
+<p>
+	<a href="https://github.com/sindresorhus/awesome">
+		<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+	</a>
+	<a href="https://travis-ci.org/ramnes/awesome-mongodb">
+		<img src="https://img.shields.io/travis/ramnes/awesome-mongodb.svg" alt="Build status">
+	</a>
+</p>
+
+> 本项目从 [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) fork，欢迎通过 [CONTRIBUTING](.github/CONTRIBUTING.md)，改善这个列表。
 
 ## 目录
 
 * [资源](#资源)
-   * [文档](#资源)
-   * [文章](#文章)
-   * [图书](#图书)
-   * [会谈](#会谈)
-   * [教程](#教程)
-   * [更多](#更多)
+	* [文档](#资源)
+	* [文章](#文章)
+    * [图书](#图书)
+    * [会谈](#会谈)
+    * [教程](#教程)
+    * [更多](#更多)
 * [库](#库)
-   * [C](#C)
-   * [C++](#C++)
-   * [C#/.NET](#C#/.NET)
-   * [Delphi](#Delphi)
-   * [Elixir](#Elixir)
-   * [Erlang](#Erlang)
-   * [Go](#Go)
-   * [Haskell](#Haskell)
-   * [Java](#Java)
-   * [JavaScript](#JavaScript)
-   * [Julia](#Julia)
-   * [Lisp](#Lisp)
-   * [Mathematica](#Mathematica)
-   * [Perl](#Perl)
-   * [PHP](#PHP)
-   * [Python](#Python)
-   * [R](#R)
-   * [Ruby](#Ruby)
-   * [Rust](#Rust)
-   * [Scala](#Scala)
+    * [C](#C)
+    * [C++](#C++)
+    * [C#/.NET](#C#/.NET)
+    * [Delphi](#Delphi)
+    * [Elixir](#Elixir)
+    * [Erlang](#Erlang)
+    * [Go](#Go)
+    * [Haskell](#Haskell)
+    * [Java](#Java)
+    * [JavaScript](#JavaScript)
+    * [Julia](#Julia)
+    * [Lisp](#Lisp)
+    * [Mathematica](#Mathematica)
+    * [Perl](#Perl)
+    * [PHP](#PHP)
+    * [Python](#Python)
+    * [R](#R)
+    * [Ruby](#Ruby)
+    * [Rust](#Rust)
+    * [Scala](#Scala)
 * [工具](#工具)
-   * [管理](#管理)
-   * [数据](#数据)
-   * [部署](#部署)
-   * [桌面](#desktop)
-   * [发展](#发展)
-   * [监控](#监控)
-   * [Shell](#Shell)
-   * [Web](#Web)
+    * [管理](#管理)
+    * [数据](#数据)
+    * [部署](#部署)
+    * [桌面](#desktop)
+    * [发展](#发展)
+    * [监控](#监控)
+    * [Shell](#Shell)
+    * [Web](#Web)
 * [应用](#应用)
 
 ## 资源
@@ -316,6 +324,6 @@
 * [SaaS Boilerplate](https://github.com/async-labs/saas) - SaaS产品的Boilerplate，使用TypeScript，React和Express构建
 * [正常运行时间](https://github.com/fzaninotto/uptime) - 使用Node.js和Bootstrap构建的远程监控应用程序
 
-## [License]()
+## License
 
-在法律允许的范围内已放弃所有版权及相关权利。
+[Apache License 2.0](LICENSE)
