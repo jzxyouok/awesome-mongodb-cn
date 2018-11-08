@@ -1,8 +1,6 @@
 # 贡献指南
 
-您想贡献给Awesome MongoDB吗？好极了！
-
-请确保您的提款请求符合以下准则：
+如果您想贡献 Awesome MongoDB CN，请确保您请求符合以下准则：
 
 * 针对每个建议提出单独的拉取请求。
 * 使用以下格式： `[Resource Name](link) - Short description`。
