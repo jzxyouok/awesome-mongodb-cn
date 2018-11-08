@@ -1,10 +1,10 @@
 <p align="center"><img src="logo.png" height="300" alt="MongoDB Logo"/></p>
 
-# Awesome MongoDB CN
+<p align="center"><h1>Awesome MongoDB CN</h1></p>
 
 <p align="center">:leaves: MongoDB 资源、库、工具、应用程序精选列表中文版</p>
 
-<p>
+<p align="center">
 	<a href="https://github.com/sindresorhus/awesome">
 		<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
 	</a>
