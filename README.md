@@ -63,6 +63,7 @@
 * [MongoDB介绍](https://docs.mongodb.com/manual/introduction/)
 * [MongoDB文档](https://docs.mongodb.com/manual/)
 * [MongoDB教程](https://docs.mongodb.com/manual/tutorial/)
+* [更多MongoDB教程 (by Studio 3T)](studio3t.com/knowledge-base/categories/mongodb-tutorials)
 
 ### 文章
 
