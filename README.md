@@ -89,6 +89,7 @@
 
 * [使用AngularJS，Node.js和MongoDB创建电视节目追踪器](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/) - 使用Mongoose构建REST API以创建和检索数据
 * [Kubernetes示例](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - [Kubernetes上](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb)基本Node.js和MongoDB Web堆栈的部署教程
+* [在AWS上部署高度可用的MongoDB副本集](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/) - Extremely detailed guide on how to deploy a MongoDB replica set on Amazon Web Services
 
 ### 更多
 
