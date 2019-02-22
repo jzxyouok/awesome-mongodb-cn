@@ -186,6 +186,7 @@
 * [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM基于PHP Mongo PECL扩展
 * [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - 基于PHPMongo ODM的迁移工具
 * [pecl / mongodb](https://github.com/mongodb/mongo-php-driver) - 官方PHP驱动程序
+* [yadm](https://github.com/formapro/yadm) - 快速无模式ODM
 
 ### Python
 
