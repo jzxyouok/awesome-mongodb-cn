@@ -183,6 +183,8 @@
 * [eloquent-mongodb-repository](https://github.com/LaravelRepository/eloquent-mongodb-repository) - 基于laravel-mongodb构建[的存储](https://github.com/LaravelRepository/eloquent-mongodb-repository)库实现
 * [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - [Laravel的Eloquent](https://github.com/jenssegers/laravel-mongodb)模型和查询构建器
 * [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) - 存储库实现
+* [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM基于PHP Mongo PECL扩展
+* [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - 基于PHPMongo ODM的迁移工具
 * [pecl / mongodb](https://github.com/mongodb/mongo-php-driver) - 官方PHP驱动程序
 
 ### Python
