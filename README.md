@@ -89,7 +89,7 @@
 
 * [使用AngularJS，Node.js和MongoDB创建电视节目追踪器](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/) - 使用Mongoose构建REST API以创建和检索数据
 * [Kubernetes示例](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - [Kubernetes上](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb)基本Node.js和MongoDB Web堆栈的部署教程
-* [在AWS上部署高度可用的MongoDB副本集](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/) - Extremely detailed guide on how to deploy a MongoDB replica set on Amazon Web Services
+* [在AWS上部署高度可用的MongoDB副本集](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/) - 有关如何在Amazon Web Services上部署MongoDB副本集的详细指南
 
 ### 更多
 
@@ -249,6 +249,7 @@
 
 ### 部署
 
+* [DB — AI Playground](https://play.db-ai.co) - 在线游乐场，用于编写，调试和共享聚合和查询
 * [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible角色
 * [chef-mongodb](https://github.com/edelight/chef-mongodb) - 厨师食谱
 * [Dockerfile](https://github.com/dockerfile/mongodb)
